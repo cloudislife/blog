@@ -1,14 +1,6 @@
-auto: true
-
-markdown: rdiscount
-
-highlighter: 'pygments'
-#paginate: 8
 permalink: /:title
 
-name: “Cloud is life's Blog”
-title: Cloud is life's blog
-description: .
-url: http://cloudislief.github.io
+title: Cloud is lief
+url: http://cloudislife.github.io/blog
 feed: /atom.xml
-author_info: <a href="http://cloudislife.github.io/">Cloud is life</a>
+author_info: <a href="http://cloudislife.github.io/blog">Cloud is lief</a>
