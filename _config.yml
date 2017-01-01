@@ -8,7 +8,7 @@ permalink: /:title
 
 name: “Cloudislife's Blog”
 title: Cloudislife's blog
-description: Everything about Mukosame.
+description: 
 url: http://cloudislife.github.io/blog
 feed: /atom.xml
 author_info: <a href="http://cloudislife.github.io/blog">Cloudislife</a>
