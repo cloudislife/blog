@@ -5,9 +5,9 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/about_tech"><span>╪╪йУ</span></a></li>
-            <li style="text-align:center"><a href="/about_life"><span>иЗ╩Н</span></a></li>
-            <li style="text-align:right"><a href="/about_me"><span>╧ьсзнр</span></a></li>
+            <li class="on"><a href="/"><span>Ф┼─Ф°╞</span></a></li>
+            <li style="text-align:center"><a href="/life"><span>Г■÷Ф╢╩</span></a></li>
+            <li style="text-align:right"><a href="/me"><span>Е┘ЁД╨▌Ф┬▒</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>

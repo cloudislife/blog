@@ -1,14 +1,11 @@
 auto: true
 
-markdown: rdiscount
-
+#markdown: rdiscount
 highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: “Cloudislife's Blog”
-title: Cloudislife's blog
-description: 
-url: http://cloudislife.github.io/blog
+title: Cloudislife
+url: http://cloudislife.github.io
 feed: /atom.xml
-author_info: <a href="http://cloudislife.github.io/blog">Cloudislife</a>
+author_info: <a href="http://cloudislife.github.io/">Cloudislife</a>
